@@ -1,0 +1,11 @@
+c:\users\aylin\documents\visual studio 2015\Projects\Proyecto\Proyecto\obj\Debug\TwelveLogic.csprojResolveAssemblyReference.cache
+c:\users\aylin\documents\visual studio 2015\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.dll
+c:\users\aylin\documents\visual studio 2015\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+c:\users\aylin\documents\visual studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.dll
+c:\users\aylin\documents\visual studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+D:\ESCUELA\Aylin\Proyecto\Proyecto\bin\Debug\Proyecto.dll
+D:\ESCUELA\Aylin\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+D:\ESCUELA\Aylin\Proyecto\Proyecto\obj\Debug\TwelveLogic.csproj.CoreCompileInputs.cache
+D:\ESCUELA\Aylin\Proyecto\Proyecto\obj\Debug\Proyecto.dll
+D:\ESCUELA\Aylin\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+D:\ESCUELA\Aylin\Proyecto\Proyecto\obj\Debug\TwelveLogic.csprojAssemblyReference.cache

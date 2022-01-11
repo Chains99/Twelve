@@ -1,0 +1,10 @@
+D:\ESCUELA\Aylin\Proyecto\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\ESCUELA\Aylin\Proyecto\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\ESCUELA\Aylin\Proyecto\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\ESCUELA\Aylin\Proyecto\ConsoleApplication1\bin\Debug\Proyecto.dll
+D:\ESCUELA\Aylin\Proyecto\ConsoleApplication1\bin\Debug\Proyecto.pdb
+D:\ESCUELA\Aylin\Proyecto\ConsoleApplication1\obj\Debug\ConsoleAppTest.csprojAssemblyReference.cache
+D:\ESCUELA\Aylin\Proyecto\ConsoleApplication1\obj\Debug\ConsoleAppTest.csproj.CoreCompileInputs.cache
+D:\ESCUELA\Aylin\Proyecto\ConsoleApplication1\obj\Debug\ConsoleAppTest.csproj.CopyComplete
+D:\ESCUELA\Aylin\Proyecto\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\ESCUELA\Aylin\Proyecto\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

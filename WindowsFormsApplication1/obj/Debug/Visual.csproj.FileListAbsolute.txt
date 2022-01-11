@@ -1,0 +1,35 @@
+c:\Users\AYLIN\documents\visual studio 2015\Projects\Proyecto\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\Users\AYLIN\documents\visual studio 2015\Projects\Proyecto\WindowsFormsApplication1\obj\Debug\Visual.csprojResolveAssemblyReference.cache
+c:\Users\AYLIN\documents\visual studio 2015\Projects\Proyecto\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\Users\AYLIN\documents\visual studio 2015\Projects\Proyecto\WindowsFormsApplication1\obj\Debug\Visual.csproj.GenerateResource.Cache
+c:\Users\AYLIN\documents\visual studio 2015\Projects\Proyecto\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\Users\AYLIN\documents\visual studio 2015\Projects\Proyecto\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\Users\AYLIN\documents\visual studio 2015\Projects\Proyecto\WindowsFormsApplication1\bin\Debug\Proyecto.dll
+c:\Users\AYLIN\documents\visual studio 2015\Projects\Proyecto\WindowsFormsApplication1\bin\Debug\Proyecto.pdb
+c:\Users\AYLIN\documents\visual studio 2015\Projects\Proyecto\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\Users\AYLIN\documents\visual studio 2015\Projects\Proyecto\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\AYLIN\Documents\Visual Studio 2015\Projects\Proyecto\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Twelve.resources
+G:\Proyecto\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Proyecto\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Proyecto\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Proyecto\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Proyecto\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Proyecto\WindowsFormsApplication1\bin\Debug\Proyecto.dll
+G:\Proyecto\WindowsFormsApplication1\bin\Debug\Proyecto.pdb
+G:\Proyecto\WindowsFormsApplication1\obj\Debug\Visual.csprojResolveAssemblyReference.cache
+G:\Proyecto\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Twelve.resources
+G:\Proyecto\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Proyecto\WindowsFormsApplication1\obj\Debug\Visual.csproj.GenerateResource.Cache
+D:\ESCUELA\Aylin\Proyecto\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\ESCUELA\Aylin\Proyecto\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\ESCUELA\Aylin\Proyecto\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\ESCUELA\Aylin\Proyecto\WindowsFormsApplication1\bin\Debug\Proyecto.dll
+D:\ESCUELA\Aylin\Proyecto\WindowsFormsApplication1\bin\Debug\Proyecto.pdb
+D:\ESCUELA\Aylin\Proyecto\WindowsFormsApplication1\obj\Debug\Visual.csprojAssemblyReference.cache
+D:\ESCUELA\Aylin\Proyecto\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\ESCUELA\Aylin\Proyecto\WindowsFormsApplication1\obj\Debug\Visual.csproj.GenerateResource.cache
+D:\ESCUELA\Aylin\Proyecto\WindowsFormsApplication1\obj\Debug\Visual.csproj.CoreCompileInputs.cache
+D:\ESCUELA\Aylin\Proyecto\WindowsFormsApplication1\obj\Debug\Visual.csproj.CopyComplete
+D:\ESCUELA\Aylin\Proyecto\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\ESCUELA\Aylin\Proyecto\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\ESCUELA\Aylin\Proyecto\WindowsFormsApplication1\obj\Debug\Visual.Twelve.resources
